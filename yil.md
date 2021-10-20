@@ -18,3 +18,4 @@
 20211014 - Yesterday I Learned: more about Pandas Series methods and functions. I eseciallfy liked descrdibe(), value_counts(), and all the str manipulations.
 20211015 - Yesterday I Learned: about DataFrames. I learned about DataFrame attributes and methods. I learend about creating a bool mask to filter the data. I learned to rename, drop or creat new columns. And my favorite, I learned to chain methods which I need to practice more. 
 20211018 - Yesterday I Learned: about Advanced DataFrames. I learned how to connect and import data from MySQL. I also learned the importance of creat bool mask and creating variables to make the data break down easier.
+20211020 - Yesterday I Learned: about Advanced DataFrames aggregating, groupby method, .and the merg method."
