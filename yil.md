@@ -19,3 +19,4 @@
 20211015 - Yesterday I Learned: about DataFrames. I learned about DataFrame attributes and methods. I learend about creating a bool mask to filter the data. I learned to rename, drop or creat new columns. And my favorite, I learned to chain methods which I need to practice more. 
 20211018 - Yesterday I Learned: about Advanced DataFrames. I learned how to connect and import data from MySQL. I also learned the importance of creat bool mask and creating variables to make the data break down easier.
 20211020 - Yesterday I Learned: about Advanced DataFrames aggregating, groupby method, .and the merg method."
+20211021 - Yesterday I Learned: about Seaborn. Seaborn uses matplotlib but makes it easier. matplotlib is like learning to cook while Seaborn is like learning to make hamburger helper.
