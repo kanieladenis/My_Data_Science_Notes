@@ -21,4 +21,5 @@
 20211020 - Yesterday I Learned: about Advanced DataFrames aggregating, groupby method, .and the merg method."
 20211021 - Yesterday I Learned: about Seaborn. Seaborn uses matplotlib but makes it easier. matplotlib is like learning to cook while Seaborn is like learning to make hamburger helper.
 20211022 - Yesterday I Learned: more about Searborn and the use of hue and col.
-20211025n- Yesterday I Learend: about Spreadsheets. The if(and) function was confusing. I like Python better.
+20211025- Yesterday I Learend: about Spreadsheets. The if(and) function was confusing. I like Python better.
+20211026 - Yesterday I Learned: about prensenting data through story telling. We learned about evaluating charts through 7 steps: things noticed, thing meet intent, anything misleading, anything missing, things disliked, things to change, new sketch.
