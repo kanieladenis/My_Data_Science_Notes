@@ -25,3 +25,4 @@
 20211026 - Yesterday I Learned: about prensenting data through story telling. We learned about evaluating charts through 7 steps: things noticed, thing meet intent, anything misleading, anything missing, things disliked, things to change, new sketch.
 20211027 - Yesteday I Leanred: more about presenting data by storytelling. I need to review again but one thing that stuck is something like "good not when you have no more to add but instead when there is no more to take away". Simple and less is best.
 20211028 - Yesterday I Learned: about Tableau. I created worksheets and a dashboard using the Telco data. I liked the functionality of the worksheets and creating new charts.
+20211029 - Yesterday I learned about Refining and Presenting a story
