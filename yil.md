@@ -26,4 +26,5 @@
 20211027 - Yesteday I Leanred: more about presenting data by storytelling. I need to review again but one thing that stuck is something like "good not when you have no more to add but instead when there is no more to take away". Simple and less is best.
 20211028 - Yesterday I Learned: about Tableau. I created worksheets and a dashboard using the Telco data. I liked the functionality of the worksheets and creating new charts.
 20211029 - Staff Day 
-20211101 - Yesterday I Learned\: about: Refining and Presenting a story
+20211101 - Yesterday I Learned: about Refining and Presenting a story
+20211102 - Yesterday I Learned: key pointers for presention which stuck with me is to keep a steady pace, breath, don't rush, speak with calm and authority, let the charts breathe and allow digest time. We also did into to Stats and started in simulations. 
