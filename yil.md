@@ -29,3 +29,4 @@
 20211101 - Yesterday I Learned: about Refining and Presenting a story
 20211102 - Yesterday I Learned: key pointers for presention which stuck with me is to keep a steady pace, breath, don't rush, speak with calm and authority, let the charts breathe and allow digest time. We also did into to Stats and started in simulations. 
 20211103 - Yesterday I Leanred: about about stats using simulation and probability distribution. We reviewed the simulation exericises during which I learned the importance of building toward a dataframe. Then we started in the probaility distribution and I learned about normal, binomial, and poisson distributions. 
+20211103 - Yesterday I Learned: more about Probability Distribution. We completed and then reveiwed the exercises. I need more practice on interpretting questions and using distribution functions.
