@@ -33,3 +33,4 @@
 20211105 - Yesterday I Learned: about hypothesis testing. I learned about Null Hypothesis and Alternate Hypothesis, results being True (Posigtive / Negative) or False (Positive / Negative aka Type I and Type II error). I also learned about 1 and  2 sample with 1 and 2 tail testing.
 20211108 - Yesterdy I Learned: more about Hypothesis Testing to include correlation testing using the Pearson function t and p of two Series. Working through the exercise, I learned more on pandas and how to subclass data. Need more practice.
 20211109 - Yesterday I Learned: more about Hypothesis testing by using Chi Squared to compare to proportions (categories) of variables.
+20211110 - Yesterday I Learned: the intro on Machine Learning and practiced methods of aquiring data using read from clipboard, sql, and csv.
