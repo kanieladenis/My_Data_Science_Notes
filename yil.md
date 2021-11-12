@@ -34,3 +34,4 @@
 20211108 - Yesterdy I Learned: more about Hypothesis Testing to include correlation testing using the Pearson function t and p of two Series. Working through the exercise, I learned more on pandas and how to subclass data. Need more practice.
 20211109 - Yesterday I Learned: more about Hypothesis testing by using Chi Squared to compare to proportions (categories) of variables.
 20211110 - Yesterday I Learned: the intro on Machine Learning and practiced methods of aquiring data using read from clipboard, sql, and csv.
+20211112 - Yesterday I Learned: more about prepping data, cleaning data by dropping columns or removoing outliers. We also learned about splitting data into a train set, validate set, and  test set.
