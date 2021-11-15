@@ -35,3 +35,4 @@
 20211109 - Yesterday I Learned: more about Hypothesis testing by using Chi Squared to compare to proportions (categories) of variables.
 20211110 - Yesterday I Learned: the intro on Machine Learning and practiced methods of aquiring data using read from clipboard, sql, and csv.
 20211112 - Yesterday I Learned: more about prepping data, cleaning data by dropping columns or removoing outliers. We also learned about splitting data into a train set, validate set, and  test set.
+20211115 - Yesterday I Learned: about Data Exploration. Abut Univariate (one variable), Bivariate (two Variables), Multivariate (more than two variables) exploration using visualization and statistics testing.
