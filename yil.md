@@ -40,3 +40,4 @@
 20211117 - Yesterday I Learned: about Model Evaluation. I learned about a Confusion Matrix, creating a baseline, and evaluatin metrics through Accuracy (True Predictions / All Observations), Recall (Positive Actuals), and Precision (Positive Predictions).
 20211118 - Yesterday I Learned: about the Decision Tree Model and the process it takes to make a prediction.
 20211119 - Yesterday I Learned: about the Random Forest Modle is just like the Decision Tree Model only is uses a lot of random un-optimized trees and aggregates them to make a decions. I also learned about Bootstrapped data sets which is when data is randomized and include samples already used, like pulling a sample from a bag and then putting it back into the bag. It increases randomness.
+20211122 - Yesterday I Learned: about KNN and Logistics Regression. Logistics Regression is still confusing to me and I don't understand what the parameters are doing
