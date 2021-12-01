@@ -45,3 +45,4 @@
 20211124-26 - Fall Break
 20211129 - Yesterday I Learned: I worked more ont he classification project. I spent two days working my way through explore. Actually, I spent more than that as I got into modeling and learned I has missed things in explore. I need clarification on how to build visuals and what visuals are appropriate to answer my questions.
 20211130 - Yesterday I Learned: more about presentations. Yesterday was our classification project presentation and my takeaways are time management, don't focus too long on one thing. Use 'I' instead of "We". Make the introduction exciting and about what you did, not just the topic. I need to get better at visuals and stats.
+20211130 - Yesterday I Learned: about regression. Regression being the best line made to accomdate points on a plot. I need more clarification. We also covered aquiring data and started working the the zillow data.
