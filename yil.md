@@ -57,3 +57,4 @@
 20211214 - Yesterday I Learned: to manage time better, and to start small and then add limited features. Yesterady was the Regression Project presentation. I need to improve on my pacing, timing, concisement, clarity. 
 20211215 - Yesterday I Learned: about Machine Learning with Clustering. Clustering is unspervised ML methodology that groups features by similarity to identify a new thing. It uses K-Means, Hierarchical, and DBSCAN. K-Means groups by closest distance to centeroid. Heirarchy groups based organization level. DBSCAN groups by density of obersvations.
 20211216 - Yesterday I Learned: more about wrangling data. We used learned more methods to looks for nulls. How to count nulls across rows and columns. What do with nulls per feature.
+20220103 - Yesterday I Learned: we return from a two week break (17Dec  - 2Jan)
