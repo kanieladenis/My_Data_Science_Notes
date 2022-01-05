@@ -59,3 +59,4 @@
 20211216 - Yesterday I Learned: more about wrangling data. We used learned more methods to looks for nulls. How to count nulls across rows and columns. What do with nulls per feature.
 20220103 - Yesterday I Learned: we return from a two week break (17Dec  - 2Jan)
 20220104 - Yesterday I Learned: about clustering using KMeans as the modeling method. We learned to use the elbow method to find the best value for k. I learned to visualize clusters with scatter plot.
+20220105 - Yesterday I Learned: about what to do with Clusters. 2 steps: Explore Clusters and then Name them. 3 options: Use Cluster as Features to reduce demensionality, Use cluster name as target variable in order to classify new data, EDA each cluster and Model each cluster
