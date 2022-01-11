@@ -63,3 +63,4 @@
 20220106 - Yesterday I Learned: we spend the day working on the clustering project. I had difficulty cleaning the data even though I had done earlier in the exercises. I'm teamed up with Mason.
 20220107 - Yesterfday I Learned: we worked more on the clustering project. I was able to cluster and model with osl linear regression. Mason has finished his wrangle and started his univariate analysis.
 20220110 - Yesterday I Learned: did more work on the clustering project. I learned that I soyolud have used feature selection to pick clustering features. I also learned that clustering works better with engineered ratio feautures.
+20220111 - Yesterday I Learned: about aquiriing data through API.
