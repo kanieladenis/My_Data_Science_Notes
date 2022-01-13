@@ -64,3 +64,5 @@
 20220107 - Yesterfday I Learned: we worked more on the clustering project. I was able to cluster and model with osl linear regression. Mason has finished his wrangle and started his univariate analysis.
 20220110 - Yesterday I Learned: did more work on the clustering project. I learned that I soyolud have used feature selection to pick clustering features. I also learned that clustering works better with engineered ratio feautures.
 20220111 - Yesterday I Learned: about Time Series Analysis. Time Series values are sequentially related. Values cannot be dropped without causing issues with other values. We also learned about aquiriing data through API.
+20220112 - Yesterday I Learned: about making the datetime column into the index which opens options to further transform data with resampling, forward fill, and rolling windows.
+20220113 - Yesterday I Learned: about preparing time series, looking for gaps in data, and doing quick exploration.
