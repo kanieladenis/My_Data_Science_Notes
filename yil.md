@@ -66,3 +66,4 @@
 20220111 - Yesterday I Learned: about Time Series Analysis. Time Series values are sequentially related. Values cannot be dropped without causing issues with other values. We also learned about aquiriing data through API.
 20220112 - Yesterday I Learned: about making the datetime column into the index which opens options to further transform data with resampling, forward fill, and rolling windows.
 20220113 - Yesterday I Learned: about preparing time series, looking for gaps in data, and doing quick exploration...
+20220114 - Yesterday I Learned: about exploratory analysis with Time Series data. I learned to visualize time series data over time, changes overs time, lage, rolling window, and decomposition.
