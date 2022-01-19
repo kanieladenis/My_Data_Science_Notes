@@ -68,3 +68,4 @@
 20220113 - Yesterday I Learned: about preparing time series, looking for gaps in data, and doing quick exploration...
 20220114 - Yesterday I Learned: about exploratory analysis with Time Series data. I learned to visualize time series data over time, changes overs time, lage, rolling window, and decomposition.
 20220118 - Yesterday I Learned: returned from a 3 day weekend for MLK (15-17Jan). Friday we worked on on the Individual Project. I chose to use data about SBA loans to identify drivers of loan default. Project work will continue through the week.
+20220119 - Yesterday I Learned: Yesterfday was more work on the individual project. I learned that my time management needs more work. I'm I should be done exploring and I've only just started.
