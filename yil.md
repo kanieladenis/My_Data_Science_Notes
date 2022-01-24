@@ -70,3 +70,5 @@
 20220118 - Yesterday I Learned: returned from a 3 day weekend for MLK (15-17Jan). Friday we worked on on the Individual Project. I chose to use data about SBA loans to identify drivers of loan default. Project work will continue through the week.
 20220119 - Yesterday I Learned: Yesterfday was more work on the individual project. I learned that my time management needs more work. I'm I should be done exploring and I've only just started.
 20200120 - Yesterday I Learned: Did more work on the invididual project. I accidentally data leaked which caused my classification models to be 99 percent accuratge. Ravinder helped me find it and now I better undertand data leak.
+20220121 - Yesterday I: Did more work on the individual project, finished my modeling
+20220124 - Yesterday I: finished my working copy and started on fuctionss and modules.
