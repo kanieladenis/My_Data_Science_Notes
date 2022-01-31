@@ -77,3 +77,4 @@
 20200127 - Yesterday I: learned about anomoly detecting with time series data using bollinger bands and %b. Bollinge bands create and midband (weighted moving average), upper band (midband + (wma * k)), and lower band (midband - (wma * k). From those bands, I can find where the observation fall relative to that band range as  percent of that band (%b). With %b, I can filter to find only the observation outside of the upper and lower bands which leave the potential anomolies.
 20220128 - Staff Day, no class
 20220131 - Yesterday (last Thursday) we learned about Anomoly Detection usering Clustering. We used DBSCAN to cluster by density and by selecting epsilon (radious around each point) and minimum samople, (minimum number of neighbors to make a core) I was able identify noise aka anomolies
+20220201 - Yesterday
