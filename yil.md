@@ -80,3 +80,4 @@
 20220201 - Yesterday I: finished the anomaly detection project with Daniel. I learned that with group projects, more planning with roles, deadlines are needed. We fnished a so so final report, I wasn't happy with it but it also wans't horrible.
 20220202 - Yesterday I: learned about regular expressions and how to search, findall, split strings
 20220203 - Yesterday I: learned about web scraping and pulling elements form html
+20220204 - Yesterday I: learne about preping text data from web scraping
