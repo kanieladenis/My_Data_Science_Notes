@@ -81,3 +81,4 @@
 20220202 - Yesterday I: learned about regular expressions and how to search, findall, split strings
 20220203 - Yesterday I: learned about web scraping and pulling elements form html
 20220204 - Yesterday I: learne about preping text data from web scraping
+20220207 - Yesterday I: learned about explorating NLP data by using  value counts dataframe of the most used words. I also used word cloud, bigrams, and sentiment.
