@@ -86,3 +86,4 @@
 20220209 - Yesterday I: worked on the nlp project, updating trello, helping with the ReadMe, and exploring my question.
 20220210 - Yesterday I: continued work on the nlp project. I finshed answer the exploration question, got a two visuals. I also completed modeling using logistics regression and got a 80% accuracy but was overfit. 
 20220211 - Yesterday I: worked on the nlp project. I updated moduels for viz, modeling, helped with the final report, and helped chirstian with his modleing fuction. 
+20220214 - Yesterday I: learned about Apachi Spark. I learned how to create a spark dataframe from a pandas dataframe, how to manipulate the dataframe using python to spark interpreter.
