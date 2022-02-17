@@ -88,3 +88,5 @@
 20220211 - Yesterday I: worked on the nlp project. I updated moduels for viz, modeling, helped with the final report, and helped chirstian with his modleing fuction. 
 20220214 - Yesterday I: learned about Apachi Spark. I learned how to create a spark dataframe from a pandas dataframe, how to manipulate the dataframe using python to spark interpreter.
 20220215 - Yesterday I: went through the prepare lesson of Spark with Adam. then I learned some wrangle with spark from Ravinder.
+20220216 - Yesterday I: learned about exploring data using Spark. The main lesson was to aggreate Spark data into a dataframe and convert it to Pandas in order to visualize.
+20220217 - Yesterday I: learned aobut deep learning using Keras. I learned about computer vision with letter recognition and picture classification.
