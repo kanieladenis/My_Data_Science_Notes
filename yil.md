@@ -90,3 +90,4 @@
 20220215 - Yesterday I: went through the prepare lesson of Spark with Adam. then I learned some wrangle with spark from Ravinder.
 20220216 - Yesterday I: learned about exploring data using Spark. The main lesson was to aggreate Spark data into a dataframe and convert it to Pandas in order to visualize.
 20220217 - Yesterday I: learned aobut deep learning using Keras. I learned about computer vision with letter recognition and picture classification.
+20220218 - Yesterday I: had the Linkedin workshop with Stephen Salas. I need to match my profile to my codeup resume, update my projects, and accept/sent invitation. I need to start journaling to keep track of my improvements. I also started the capstone project. I'm on the Enron emails project and I'm working with Stephanie, Paige, and Ragaram. We spent the last half of the day planning the project, identifying the goal, getting and idea of what we plan for the dataset and modeling.
