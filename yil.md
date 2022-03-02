@@ -97,3 +97,5 @@
 20220224 - Yesterdasy I: worked on project
 20220225 - Staff Day
 20220228 - Yesteday I: worked more on topic modeling using BERTopic. Was able to use get sentiment for topics but values were zero.
+20220301 - Yesterday I: worked on mulivariate exploration, created scatter plots, line plots, and a heatmap. The heat map was the only only one that seemed useful for the project. I also collected the images from the workbooks and added it to the slides.
+20220302 - Yesterday I: continued work on the capstone projecct. The spent most of the morning discussing what else was needed and the direction of the storyline. I worked with Stephanie on the outline and Rajaram on the topics sentient scores.
