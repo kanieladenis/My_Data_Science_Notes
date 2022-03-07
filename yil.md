@@ -100,3 +100,5 @@
 20220301 - Yesterday I: worked on mulivariate exploration, created scatter plots, line plots, and a heatmap. The heat map was the only only one that seemed useful for the project. I also collected the images from the workbooks and added it to the slides.
 20220302 - Yesterday I: continued work on the capstone projecct. The spent most of the morning discussing what else was needed and the direction of the storyline. I worked with Stephanie on the outline and Rajaram on the topics sentient scores.
 20220303 - Yesteday I: worked on testing the wrangle funcitons and then added my topic modeling functions. I need to be more careful and really understand other people code before testing. I made changes to Pj's code and I created more problems for myself as the diverted away from his overall design. I needed to make more changes which threw off the agg code at the end. It took all day and night and this morning to test through his code.
+20220304 - Yesterday I worked on taking the test code and converting it to the fintl report.
+20220307 - Yesterday I worked more on the presentation slides, and final report. 
