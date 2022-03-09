@@ -102,3 +102,5 @@
 20220303 - Yesteday I: worked on testing the wrangle funcitons and then added my topic modeling functions. I need to be more careful and really understand other people code before testing. I made changes to Pj's code and I created more problems for myself as the diverted away from his overall design. I needed to make more changes which threw off the agg code at the end. It took all day and night and this morning to test through his code.
 20220304 - Yesterday I worked on taking the test code and converting it to the fintl report.
 20220307 - Yesterday I worked more on the presentation slides, and final report. 
+20220308 - Yesterday I: completed the final report.
+20220309 - Yesterday I: worked more on the capstone. I updated my script and we did 3 dryruns
