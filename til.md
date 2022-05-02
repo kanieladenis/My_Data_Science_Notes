@@ -104,3 +104,4 @@
 20220307 - Yesterday I worked more on the presentation slides, and final report. 
 20220308 - Yesterday I: completed the final report.
 20220309 - Yesterday I: worked more on the capstone. I updated my script and we did 3 dryruns
+20220502 - Today I Learned: I am restarting this effort after graduating from Codeup on 14Mar. The last 6 weeks were spent mostly doing things for the house. I'm mostly done witht house things but it's time to refocuse. I've renamed this journal to "TIL", the original cocept was to fill in after the day was done to reinforce concepts and keep a log of what I learnd. My plan is to spend at least two hours but up to four hours working on data science projects. I'm also working on job hunting. Here we go.
